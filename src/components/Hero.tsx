@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="animate-fade-in-up">
           <div className="w-48 h-48 mx-auto mb-8 rounded-full shadow-xl overflow-hidden">
             <img 
-              src="./img/bal.jpg" 
+              src="/img/Bal.jpg" 
               alt="Nathan Silva" 
               className="w-full h-full object-cover"
             />
@@ -60,7 +60,7 @@ const Hero = () => {
             </a>
             
             <a
-              href="./pdf/Curriculo.pdf"
+              href="/pdf/Curriculo.pdf"
               download="Curriculo_Nathan_Silva.pdf"
               className="flex items-center space-x-2 bg-gray-600 hover:bg-gray-500 text-white px-6 py-3 rounded-full transition-all duration-300 shadow-md hover:shadow-lg transform hover:scale-105"
             >
